@@ -2,4 +2,4 @@ This repository contains three items: (i) a draft of a research manuscript, enti
 
 The manuscript was co-authored by Calvin Blackwell, Professor, College of Charleston.
 
-Any questions should be directed toward me, Wesley Burnett, @ wesley.burnett.usda.gov or Calvin Blackwell @ calvin.blackwell@cofc.edu.
+Any questions should be directed toward me, Wesley Burnett, wesley.burnett@usda.gov or Calvin Blackwell, blackwellc@cofc.edu.
