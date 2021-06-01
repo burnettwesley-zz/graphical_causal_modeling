@@ -1,1 +1,1 @@
-# graphical_causal_modeling
+This repository contains two items: (i) a draft of a research manuscript, entitled "An economist's primer to graphical models and causal identification," and (ii) an R code replication file for the Monte Carlo simulations and dagitty analysis within the paper. The manuscript was co-authored by Calvin Blackwell, Professor, College of Charleston.
